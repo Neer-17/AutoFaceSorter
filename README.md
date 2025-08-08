@@ -26,12 +26,12 @@ dataset/
 └── Others/
 └── img4.jpg
 
-📌 To-Do
- GUI using Tkinter or PyQt
+## 📌 To-Do
+ 1.GUI using Tkinter or PyQt
 
- Add cloud support (e.g., Google Drive or Dropbox)
+ 2.Add cloud support (e.g., Google Drive or Dropbox)
 
- Support for multiple faces per image
+ 3.Support for multiple faces per image
 
 🙋‍♂️ Author
 Made with ❤️ by Neeraj Panwar
